@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>the humbug post</title>
-    <link href="http://humbugpost.judekerr.com/feed.xml" rel="self" />
-    <link href="http://humbugpost.judekerr.com" />
+    <link href="https://humbugpost.judekerr.com/feed.xml" rel="self" />
+    <link href="https://humbugpost.judekerr.com" />
     <updated>2025-11-15T23:54:16+00:00</updated>
     <author>
         <name>Jude Kerr</name>
     </author>
-    <id>http://humbugpost.judekerr.com</id>
+    <id>https://humbugpost.judekerr.com</id>
 
     <entry>
         <title>Caer Sgàil x Petridisch - Chosen Persons (a remix album) - Fan Trivia</title>
         <author>
             <name>Jude Kerr</name>
         </author>
-        <link href="http://humbugpost.judekerr.com/chosen-persons-fan-trivia/"/>
-        <id>http://humbugpost.judekerr.com/chosen-persons-fan-trivia/</id>
-        <media:content url="http://humbugpost.judekerr.com/media/posts/2/thp.png" medium="image" />
+        <link href="https://humbugpost.judekerr.com/chosen-persons-fan-trivia/"/>
+        <id>https://humbugpost.judekerr.com/chosen-persons-fan-trivia/</id>
+        <media:content url="https://humbugpost.judekerr.com/media/posts/2/thp.png" medium="image" />
             <category term="trivia"/>
             <category term="music"/>
             <category term="Caer Sgàil"/>
@@ -24,13 +24,13 @@
         <updated>2025-10-12T17:44:00+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="http://humbugpost.judekerr.com/media/posts/2/thp.png" alt="" />
+                        <img src="https://humbugpost.judekerr.com/media/posts/2/thp.png" alt="" />
                     Heyo! Jude Kerr here, me and Thor (Petridisch) really liked the idea of making a big blog post about the Chosen Persons remix album for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="http://humbugpost.judekerr.com/media/posts/2/thp.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://humbugpost.judekerr.com/media/posts/2/thp.png" class="type:primaryImage" alt="" /></p>
                 <h1><a href="https://ampwall.com/a/fishprints/album/chosen-persons" class="post__image post__image--center" target="_blank" rel="noopener noreferrer"><figure class="post__image post__image--center"><img loading="lazy"  style="color: #313339; font-family: sans-serif; font-size: inherit; font-weight: 400;" src="https://64.media.tumblr.com/5d1a567cf696fb86b6fd0054bfeac42e/cf00fe665f02edfd-3c/s2048x3072/bfe569b4408e637920411c28b3e85e1e15a6eb26.pnj" sizes="(max-width: 1280px) 100vw, 1280px" srcset="https://64.media.tumblr.com/5d1a567cf696fb86b6fd0054bfeac42e/cf00fe665f02edfd-3c/s2048x3072/bfe569b4408e637920411c28b3e85e1e15a6eb26.pnj 1400w" width="425" height="425" data-orig-height="1400" data-orig-width="1400" data-is-external-image="true"></figure></a></h1>
 <p>Heyo! Jude Kerr here, me and Thor (Petridisch) really liked the idea of making a big blog post about the Chosen Persons remix album for you all to be able to read and sip your coffee to.</p>
 <p>Anyway, without further we do! Here is the Chosen Trivia, is that a good name?</p>

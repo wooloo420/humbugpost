@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://humbugpost.judekerr.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://humbugpost.judekerr.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>http://humbugpost.judekerr.com/</loc>
+<loc>https://humbugpost.judekerr.com/</loc>
 </url>
 <url>
-<loc>http://humbugpost.judekerr.com/chosen-persons-fan-trivia/</loc>
+<loc>https://humbugpost.judekerr.com/chosen-persons-fan-trivia/</loc>
 <lastmod>2025-11-15T23:54:16+00:00</lastmod>
 <image:image>
-<image:loc>http://humbugpost.judekerr.com/media/posts/2/thp.png</image:loc>
+<image:loc>https://humbugpost.judekerr.com/media/posts/2/thp.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
