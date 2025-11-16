@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://humbugpost.judekerr.com/sitemap.xml
